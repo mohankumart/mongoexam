@@ -1,0 +1,27 @@
+{
+  "name": "mongoexam",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/mohankumart/mongoexam.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/mohankumart/mongoexam/issues"
+  },
+  "homepage": "https://github.com/mohankumart/mongoexam#readme",
+  "dependencies": {
+    "body-parser": "^1.18.2",
+    "consolidate": "^0.15.1",
+    "express": "^4.16.3",
+    "install": "^0.11.0",
+    "mongodb": "^3.0.5",
+    "nunjucks": "^3.1.2"
+  }
+}
